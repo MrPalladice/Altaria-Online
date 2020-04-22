@@ -10,5 +10,5 @@
   "MenuMusic": "",
   "MenuBackground": "background.png",
   "IntroImages": [],
-  "UpdateUrl": "https://github.com/MrPalladice/Altaria-Online/blob/master/update.json"
+  "UpdateUrl": "https://raw.githubusercontent.com/MrPalladice/Altaria-Online/master/update.json"
 }
