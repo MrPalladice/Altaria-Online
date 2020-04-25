@@ -23,16 +23,6 @@
       "ClientIgnore": true
     },
     {
-      "Path": "launcher.png",
-      "Hash": "ee55f75b10a0cfde1a58153aee2e5a12",
-      "Size": 414656
-    },
-    {
-      "Path": "settings.json",
-      "Hash": "89f4458fa49e545c5065e078d4962683",
-      "Size": 223
-    },
-    {
       "Path": "resources/client_strings.json",
       "Hash": "50b835613793023e37142cfedf4f4820",
       "Size": 23450
@@ -9489,8 +9479,8 @@
     },
     {
       "Path": "resources/updater/background.png",
-      "Hash": "c2d0f8f6591f091717127a6c044929f8",
-      "Size": 227300
+      "Hash": "ee60e73e6a40b84859a193ba5165c720",
+      "Size": 356210
     },
     {
       "Path": "resources/updater/font.xnb",
