@@ -287,9 +287,7 @@
     "title": "Crafts Editor",
     "undo": "Undo Changes",
     "undoprompt": "Are you sure you want to undo changes made to this craft? This action cannot be reverted!",
-    "undotitle": "Undo Changes",
-    "craftevent": "Craft Event",
-    "successrate": "Success Rate"
+    "undotitle": "Undo Changes"
   },
   "Directions": {
     "dir": {
@@ -369,6 +367,12 @@
     "amount": "Amount:",
     "cancel": "Cancel",
     "item": "Item:",
+    "method": "Method:",
+    "Methods": {
+      "0": "Normal",
+      "1": "Allow Overflow",
+      "2": "Up to Amount"
+    },
     "okay": "Ok",
     "title": "Change Player Items"
   },
@@ -690,7 +694,8 @@
       "14": "No NPCs on Map",
       "15": "Gender is...",
       "16": "Map is...",
-      "17": "Item Equipped is..."
+      "17": "Item Equipped is...",
+      "18": "Has X free Inventory slots..."
     },
     "endrange": "End Range:",
     "false": "False",
@@ -753,7 +758,8 @@
     "true": "True",
     "type": "Condition Type:",
     "value": "Static Value:",
-    "variable": "Variable Is..."
+    "variable": "Variable Is...",
+    "freeinventoryslots": "Has X free Inventory slots"
   },
   "EventConditionDesc": {
     "admin": "Admin",
@@ -792,6 +798,7 @@
     "questcompleted": "Quest is Completed: {00}",
     "questinprogress": "Quest In Progress: {00} {01}",
     "selfswitch": "Self Switch {00} is {01}",
+    "hasfreeinventoryslots": "Player has {00} free inventory slot(s)",
     "selfswitches": {
       "0": "A",
       "1": "B",
@@ -956,6 +963,10 @@
       "moveright": "Move Right",
       "movetowardplayer": "Move Toward Player",
       "moveup": "Move Up",
+      "moveupleft": "Move Up Left",
+      "moveupright": "Move Up Right",
+      "movedownleft": "Move Down Left",
+      "movedownright": "Move Down Right",
       "setanimation": "Set Animation...",
       "setattribute": "Set Attribute",
       "setgraphic": "Set Graphic...",
@@ -1290,7 +1301,8 @@
     "undotitle": "Undo Changes",
     "vital": "Vital:",
     "vitalbonuses": "Vital Bonuses",
-    "weaponproperties": "Weapon Properties"
+    "weaponproperties": "Weapon Properties",
+    "craftevent": "Craft Event"
   },
   "LightEditor": {
     "color": "Color:",

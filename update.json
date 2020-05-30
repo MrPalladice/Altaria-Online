@@ -2,24 +2,24 @@
   "Files": [
     {
       "Path": "Intersect Client.exe",
-      "Hash": "65b77d618ee7c0859b5e9556373392b4",
-      "Size": 12830208
+      "Hash": "ecc456ede6a2bc93fca45106654f3087",
+      "Size": 12836864
     },
     {
       "Path": "Intersect Client.pdb",
-      "Hash": "70ec9379c08eaafd82aa7adaab7c4641",
-      "Size": 886272
+      "Hash": "e1104b26de7592362793ce633c989f0c",
+      "Size": 892416
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "6fb6b26da6e3f9f1254c36004f7522fb",
-      "Size": 11350016,
+      "Hash": "e2a5ca2e216f4d943b4d49f69fd552ff",
+      "Size": 11357696,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "ea452cd1097f5af2e5f663ef4c5ea2a2",
-      "Size": 1588736,
+      "Hash": "66764ccb56c56d8a2f4cd7eb963bbfa9",
+      "Size": 1592832,
       "ClientIgnore": true
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "Path": "resources/editor_strings.json",
-      "Hash": "e7d08d665b252bcc43a2b3aa662cdf9b",
-      "Size": 69125
+      "Hash": "4c1d660d7ec2b6c04ad84d5481ff1e63",
+      "Size": 69555
     },
     {
       "Path": "resources/animations/1 (1).png",
@@ -5954,7 +5954,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/BankWindow.json",
-      "Hash": "884977e6690a0111c6e9804d4f8a4ecf",
+      "Hash": "672c8c552c9e05dbd5c7d3080d03f3a1",
       "Size": 14736
     },
     {
@@ -6029,8 +6029,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "fb24899296f5ca1393c0dfe5f04f367d",
-      "Size": 11281
+      "Hash": "e723ee0e9baa79313a41d365342596a4",
+      "Size": 11280
     },
     {
       "Path": "resources/gui/layouts/game/InventoryItem.json",
@@ -6069,7 +6069,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "9c84238fa2c215bb7a5a0749b6eea5a3",
+      "Hash": "524024ef22ce5e60e30fa9790b279843",
       "Size": 24139
     },
     {
@@ -6164,8 +6164,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "5b85ef162f10991fa55b8b01dbfa291c",
-      "Size": 11357
+      "Hash": "ec537b0f36cd6c77d3d5f024056b82e3",
+      "Size": 11358
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
