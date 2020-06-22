@@ -6109,8 +6109,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/SpellDescWindowExpanded.json",
-      "Hash": "ea877dce2dfdc72ce3fc842b58b391a6",
-      "Size": 6181
+      "Hash": "a3d085c990e3bf0a0c96db8d2f2eecf0",
+      "Size": 6392
     },
     {
       "Path": "resources/gui/layouts/game/SpellsWindow.json",
@@ -7706,6 +7706,261 @@
       "Path": "resources/items/99.png",
       "Hash": "d4f256f43dff24dcd34fe2673d55a981",
       "Size": 301
+    },
+    {
+      "Path": "resources/items/icon_01.png",
+      "Hash": "464f93ce6380622f5777b9982fe8e383",
+      "Size": 1355
+    },
+    {
+      "Path": "resources/items/icon_02.png",
+      "Hash": "f92132691ca0a8d61a47aea033387302",
+      "Size": 1247
+    },
+    {
+      "Path": "resources/items/icon_03.png",
+      "Hash": "d179bf08d5532beed71d55323810baf3",
+      "Size": 1423
+    },
+    {
+      "Path": "resources/items/icon_04.png",
+      "Hash": "591739a75afb731cff14b1e048e1c270",
+      "Size": 1382
+    },
+    {
+      "Path": "resources/items/icon_05.png",
+      "Hash": "e9b5e1af0d05682929196387785236e5",
+      "Size": 1419
+    },
+    {
+      "Path": "resources/items/icon_06.png",
+      "Hash": "518750b0af8e06f85ee42d5993eb1dae",
+      "Size": 1368
+    },
+    {
+      "Path": "resources/items/icon_07.png",
+      "Hash": "e8fda63fca22a5cc7c5259fb6c8f4a9a",
+      "Size": 1399
+    },
+    {
+      "Path": "resources/items/icon_08.png",
+      "Hash": "2afbdbfdd6498587284789d8fa89e490",
+      "Size": 1535
+    },
+    {
+      "Path": "resources/items/icon_09.png",
+      "Hash": "62d92b3f08fc3b1f8dea0cf256f86cb9",
+      "Size": 1494
+    },
+    {
+      "Path": "resources/items/icon_100.png",
+      "Hash": "c22fea337698c50ef3df44ba4ecc622d",
+      "Size": 1680
+    },
+    {
+      "Path": "resources/items/icon_101.png",
+      "Hash": "a8436de121986a1d5676681f03ed9481",
+      "Size": 1721
+    },
+    {
+      "Path": "resources/items/icon_102.png",
+      "Hash": "9c4b415dc9799198bdc9ef32bf9d7305",
+      "Size": 1724
+    },
+    {
+      "Path": "resources/items/icon_15.png",
+      "Hash": "ff598077da7280552345baddb09b1cd6",
+      "Size": 1437
+    },
+    {
+      "Path": "resources/items/icon_16.png",
+      "Hash": "04c91f27003c7adf32d8b7e685601a7e",
+      "Size": 1438
+    },
+    {
+      "Path": "resources/items/icon_17.png",
+      "Hash": "0d4e730154f54b0062513bcedc6ebdee",
+      "Size": 1435
+    },
+    {
+      "Path": "resources/items/icon_18.png",
+      "Hash": "106e9c9d81235309b07c16dd8ac5aab4",
+      "Size": 1434
+    },
+    {
+      "Path": "resources/items/icon_19.png",
+      "Hash": "6e7fe4688007d27ceed1336a44c659be",
+      "Size": 1429
+    },
+    {
+      "Path": "resources/items/icon_20.png",
+      "Hash": "58ff9b8dcb4d9c44bb550374a716d54c",
+      "Size": 1441
+    },
+    {
+      "Path": "resources/items/icon_21.png",
+      "Hash": "313b3505765a43c392b9e2e47632a37d",
+      "Size": 1445
+    },
+    {
+      "Path": "resources/items/icon_22.png",
+      "Hash": "e98150efea7ca88e0360c959445f64d1",
+      "Size": 1434
+    },
+    {
+      "Path": "resources/items/icon_23.png",
+      "Hash": "846db8fa1b46919583cf7be3fa24373e",
+      "Size": 1635
+    },
+    {
+      "Path": "resources/items/icon_24.png",
+      "Hash": "a074d53ae1c6871062843684a37ecedb",
+      "Size": 1410
+    },
+    {
+      "Path": "resources/items/icon_25.png",
+      "Hash": "0f9ec79a7ef2937c2482c436d188888e",
+      "Size": 1470
+    },
+    {
+      "Path": "resources/items/icon_26.png",
+      "Hash": "c60b278de0ed3ee54ae0c1b80b436644",
+      "Size": 1447
+    },
+    {
+      "Path": "resources/items/icon_27.png",
+      "Hash": "6b6726c6eebadcbc6e54d8e37dffdf6e",
+      "Size": 1756
+    },
+    {
+      "Path": "resources/items/icon_28.png",
+      "Hash": "8341b3cfa00ba12d9ce7dd9865ea6d78",
+      "Size": 1532
+    },
+    {
+      "Path": "resources/items/icon_29.png",
+      "Hash": "e2ef79f78ebf5b0074fbd8c8814088c3",
+      "Size": 1517
+    },
+    {
+      "Path": "resources/items/icon_30.png",
+      "Hash": "20f77f30cc4b1f39107999a57704aef2",
+      "Size": 1510
+    },
+    {
+      "Path": "resources/items/icon_31.png",
+      "Hash": "1f2ed1b6130f8ec9a6ff6430ea0509cd",
+      "Size": 1497
+    },
+    {
+      "Path": "resources/items/icon_32.png",
+      "Hash": "a181430fbbf3f998e2b5f66a1b91d967",
+      "Size": 1435
+    },
+    {
+      "Path": "resources/items/icon_33.png",
+      "Hash": "3b0653fc9ba592e5a52210d08b916981",
+      "Size": 1443
+    },
+    {
+      "Path": "resources/items/icon_34.png",
+      "Hash": "8b58a0ecc7ec3c152e48eb71f50f59c1",
+      "Size": 1432
+    },
+    {
+      "Path": "resources/items/icon_35.png",
+      "Hash": "9c188d55d9edcc11bb95a690a34a7381",
+      "Size": 1418
+    },
+    {
+      "Path": "resources/items/icon_36.png",
+      "Hash": "eaecfcc2da2eac1d7439dae626ebde02",
+      "Size": 1440
+    },
+    {
+      "Path": "resources/items/icon_37.png",
+      "Hash": "1b51773a95968c6537f480a832e9529f",
+      "Size": 1436
+    },
+    {
+      "Path": "resources/items/icon_43.png",
+      "Hash": "2e044d60097034e8b64125ba7202fab8",
+      "Size": 1250
+    },
+    {
+      "Path": "resources/items/icon_44.png",
+      "Hash": "8befceaa3617c8eea48b6d52522d4ae3",
+      "Size": 1256
+    },
+    {
+      "Path": "resources/items/icon_45.png",
+      "Hash": "d46f0258320670e3eda1555b691dc4ae",
+      "Size": 1466
+    },
+    {
+      "Path": "resources/items/icon_46.png",
+      "Hash": "37bded4cc96fae415e2ab73aa3db6632",
+      "Size": 1372
+    },
+    {
+      "Path": "resources/items/icon_47.png",
+      "Hash": "a77f0d486a1737d25b693d12b522ddb1",
+      "Size": 1500
+    },
+    {
+      "Path": "resources/items/icon_48.png",
+      "Hash": "41c84aa3f0a22e6a91a68daa5540f29d",
+      "Size": 1402
+    },
+    {
+      "Path": "resources/items/icon_49.png",
+      "Hash": "ceb3f3e89441c007489a316ba209a4ce",
+      "Size": 1324
+    },
+    {
+      "Path": "resources/items/icon_50.png",
+      "Hash": "e5f6d24582bad3d28bc7cb9cdadfd1e4",
+      "Size": 1427
+    },
+    {
+      "Path": "resources/items/icon_51.png",
+      "Hash": "8521f589e17001b48ee11237771a3683",
+      "Size": 1374
+    },
+    {
+      "Path": "resources/items/icon_52.png",
+      "Hash": "43df92590bd19ecf60090aecc4513e76",
+      "Size": 1332
+    },
+    {
+      "Path": "resources/items/icon_53.png",
+      "Hash": "004e050e7a1c092799933583185d05ca",
+      "Size": 1450
+    },
+    {
+      "Path": "resources/items/icon_93.png",
+      "Hash": "8f035c0ab66373fa37c6893fcce01263",
+      "Size": 1370
+    },
+    {
+      "Path": "resources/items/icon_94.png",
+      "Hash": "bdd0641b19ee5feee5716054824226fd",
+      "Size": 1517
+    },
+    {
+      "Path": "resources/items/icon_95.png",
+      "Hash": "2a9c0423d66dcaeaf433c3701d0c7395",
+      "Size": 1579
+    },
+    {
+      "Path": "resources/items/icon_96.png",
+      "Hash": "e8bbff99530819abfdd9800a95c0b168",
+      "Size": 1592
+    },
+    {
+      "Path": "resources/items/icon_99.png",
+      "Hash": "276cab3ce9a728bb893646c04952f96c",
+      "Size": 1387
     },
     {
       "Path": "resources/misc/attributes.png",
