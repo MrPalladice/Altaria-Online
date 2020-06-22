@@ -6029,7 +6029,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "e723ee0e9baa79313a41d365342596a4",
+      "Hash": "53674353127aa14c675171fad0ee3ffa",
       "Size": 11280
     },
     {
@@ -6094,8 +6094,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "c74c0e73e2e906edb03072c39f7e3071",
-      "Size": 14736
+      "Hash": "d024411430048239bd2d0f01c54d2ea2",
+      "Size": 14737
     },
     {
       "Path": "resources/gui/layouts/game/Spell.json",
@@ -9573,6 +9573,16 @@
       "Size": 612969
     },
     {
+      "Path": "resources/tilesets/drzewa las.png",
+      "Hash": "0df0a6748a6fcbde2106f749e86921f3",
+      "Size": 889261
+    },
+    {
+      "Path": "resources/tilesets/drzewa-magic.png",
+      "Hash": "6f24ccc643e462848caa3768fad7815d",
+      "Size": 191874
+    },
+    {
       "Path": "resources/tilesets/Earth-Temple--MV.png",
       "Hash": "6964be9ea91c41e94faaaa53b6eb01ae",
       "Size": 322372
@@ -9646,6 +9656,11 @@
       "Path": "resources/tilesets/Gothic.png",
       "Hash": "e332baa46df45449c6d4793af2bb83fb",
       "Size": 549591
+    },
+    {
+      "Path": "resources/tilesets/grzyby.png",
+      "Hash": "5975cf9ba2aaf0d8d6372f7d88d47bea",
+      "Size": 14417
     },
     {
       "Path": "resources/tilesets/Hanzo-CH-WaterStreamFall.png",
@@ -10046,6 +10061,11 @@
       "Path": "resources/tilesets/Water-Temple--MV.png",
       "Hash": "4815f542ccc00f60c752ab37aec724ac",
       "Size": 471001
+    },
+    {
+      "Path": "resources/tilesets/wehjr6jr.png",
+      "Hash": "dbccd9c748991c5449e23d0596c8f268",
+      "Size": 1210593
     },
     {
       "Path": "resources/tilesets/werhr6j.png",
