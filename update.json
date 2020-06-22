@@ -7708,6 +7708,391 @@
       "Size": 301
     },
     {
+      "Path": "resources/items/armor_bronze_heavy_icon.png",
+      "Hash": "f35ce001486144319c63c5b961ff869b",
+      "Size": 22425
+    },
+    {
+      "Path": "resources/items/armor_bronze_light_icon.png",
+      "Hash": "31056a1b1991f43bbe5405bf33ab14fd",
+      "Size": 22117
+    },
+    {
+      "Path": "resources/items/armor_bronze_medium_icon.png",
+      "Hash": "12e7dd571a843aff413add5e9027b1dc",
+      "Size": 22271
+    },
+    {
+      "Path": "resources/items/armor_chiton_black_icon.png",
+      "Hash": "96cb4e6957124f1883b9dcc1450ef9e7",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chiton_blue_icon.png",
+      "Hash": "e216e2bd1ea5556c65bab2005c3e468a",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chiton_dbrown_icon.png",
+      "Hash": "b7b57228d69a949c72ee04550b6eaae7",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chiton_green_icon.png",
+      "Hash": "79d2634bb689d6dd1c52cc928f723dab",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chiton_lbrown_icon.png",
+      "Hash": "93d2d1733dd16b9a275aad1e400c512c",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chiton_pink_icon.png",
+      "Hash": "177c24df8457bb91845d641b22c2bab3",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chiton_purple_icon.png",
+      "Hash": "6348cba3398b73e194b3fb7a0a4ba660",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chiton_red_icon.png",
+      "Hash": "1db1e9ebea1bb6498b07d275d642c545",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chiton_white_icon.png",
+      "Hash": "4925c93c4ec75e5b90854f41896587a5",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/armor_chiton_yellow_icon.png",
+      "Hash": "4b9936fb044c06540e50dada942e9f2d",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chlamys_black_icon.png",
+      "Hash": "150db1f411836b74a503a1212fa91bc6",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chlamys_blue_icon.png",
+      "Hash": "73354cf08489aaf5d922bcdbcf46d25a",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chlamys_dbrown_icon.png",
+      "Hash": "f6144df7d243db2d5c9864178a778425",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chlamys_green_icon.png",
+      "Hash": "02f4e443f956f390ac5f56612fe03ba2",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chlamys_lbrown_icon.png",
+      "Hash": "dae323ae11de54c8abbe6089c350933c",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chlamys_pink_icon.png",
+      "Hash": "1134fe48b8e9c74d2635ca16aa8c3058",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chlamys_purple_icon.png",
+      "Hash": "f3dab30d70e6b2eeab0e3f993ff62862",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chlamys_red_icon.png",
+      "Hash": "56904fb1fe817f484a9267dd2958fcda",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_chlamys_white_icon.png",
+      "Hash": "b09ebd88f6bece21c886609389ba311c",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/armor_chlamys_yellow_icon.png",
+      "Hash": "04efc046fd1fd2f6bf49e773076eac08",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/armor_iron_heavy_icon.png",
+      "Hash": "cef54a13e93c28b512c0ad3012f3654e",
+      "Size": 22194
+    },
+    {
+      "Path": "resources/items/armor_iron_light_icon.png",
+      "Hash": "f5186d8b5ec26dfca736b439a02d7de1",
+      "Size": 22194
+    },
+    {
+      "Path": "resources/items/armor_iron_medium_icon.png",
+      "Hash": "34b7afc809bbcae032d54f3eeaed29fd",
+      "Size": 22194
+    },
+    {
+      "Path": "resources/items/armor_leatherhardened_heavy_icon.png",
+      "Hash": "162b36532135bc137dbc5a1c93c5cf19",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/armor_leatherhardened_light_icon.png",
+      "Hash": "eaad9ef6b2931aeff268689e2b0cdfc9",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/armor_leatherhardened_medium_icon.png",
+      "Hash": "b1d8794136e6eb52deaed15aba2ce750",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/armor_leather_heavy_icon.png",
+      "Hash": "e92a7d0753988ede149fcd8b199d7d71",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/armor_leather_light_icon.png",
+      "Hash": "d2eef9432ec41de729defe26cb0c1114",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/armor_leather_medium_icon.png",
+      "Hash": "6cc8e25cc40a0dfcf1bdc794ff4f9930",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/armor_steel_heavy_icon.png",
+      "Hash": "1bb7c28462e2ed92fa79a684c0323504",
+      "Size": 22271
+    },
+    {
+      "Path": "resources/items/armor_steel_light_icon.png",
+      "Hash": "3bf49edc0667aac194382e55feec0081",
+      "Size": 22271
+    },
+    {
+      "Path": "resources/items/armor_steel_medium_icon.png",
+      "Hash": "c81f724d7ecb842bcfc7af0056668886",
+      "Size": 22271
+    },
+    {
+      "Path": "resources/items/armor_toga_pink_icon.png",
+      "Hash": "4b434f66840db56d8285145b95dee461",
+      "Size": 22299
+    },
+    {
+      "Path": "resources/items/armor_toga_purple_icon.png",
+      "Hash": "e51ab946b273fbe711216f87af9ad27d",
+      "Size": 22222
+    },
+    {
+      "Path": "resources/items/armor_toga_red_icon.png",
+      "Hash": "6b8a4614983853fd32302b83585a6c7b",
+      "Size": 22208
+    },
+    {
+      "Path": "resources/items/armor_toga_white_icon.png",
+      "Hash": "e01b903a0ec9c7d7c6fe84d14ef7ba5d",
+      "Size": 22117
+    },
+    {
+      "Path": "resources/items/armor_tunic_pink_icon.png",
+      "Hash": "507b2371b33047de006a7fdb5b101dd8",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/armor_tunic_purple_icon.png",
+      "Hash": "992f5bda84a1977adfdbd16c8c1c1578",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/armor_tunic_red_icon.png",
+      "Hash": "7f68bea9b5ec8a699c66fef4a3fac6ca",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/armor_tunic_white_icon.png",
+      "Hash": "66a754df84293c05b287bc4ba6f9aea7",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/boots_bronze_heavy_icon.png",
+      "Hash": "39521e8758fa2eda9cda9905a424845f",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/boots_bronze_medium_icon.png",
+      "Hash": "a9e4df68e31c46fac79ef99650588263",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/boots_iron_heavy_icon.png",
+      "Hash": "c1dab4b74f1ef433244346b91605cfd2",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/boots_iron_medium_icon.png",
+      "Hash": "8777d649988cc896b7d7736e2005a3c4",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/boots_leatherhardened_heavy_icon.png",
+      "Hash": "19c06d0e1a0fb4f9024613e18ccd335d",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/boots_leatherhardened_medium_icon.png",
+      "Hash": "2a32aa80f638806b1c1531fe42e6f34f",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/boots_leather_heavy_icon.png",
+      "Hash": "5e93f50438131bbecf7c6eea387fb43d",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/boots_leather_medium_icon.png",
+      "Hash": "7fb2c0342428dadc9ad5e95dc531c871",
+      "Size": 22025
+    },
+    {
+      "Path": "resources/items/boots_sandals_icon.png",
+      "Hash": "7f2dee6b605fc7dae5b24c9be4b5937b",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/boots_steel_heavy_icon.png",
+      "Hash": "50d866d9b611ff8daf5070d30be5733a",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/boots_steel_medium_icon.png",
+      "Hash": "c787593610252bee399086372c7f23d1",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/cloak_black_icon.png",
+      "Hash": "025930c8c00ed33360d1181ec9155617",
+      "Size": 21825
+    },
+    {
+      "Path": "resources/items/cloak_blue_icon.png",
+      "Hash": "28ba815b6624d4c282e34531fd5ceacd",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/cloak_dbrown_icon.png",
+      "Hash": "0a9dc325a1c5895934d285f7ce7dcbdf",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/cloak_green_icon.png",
+      "Hash": "e6f729214f594723cd4464c176888945",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/cloak_lbrown_icon.png",
+      "Hash": "aa0f39bf3ab524801a154ffc7b31cf72",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/cloak_pink_icon.png",
+      "Hash": "5cdd3c4cd190a9011671c81ac6df1eda",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/cloak_purple_icon.png",
+      "Hash": "73e6b56b9374875f3cfe65244bc8efd0",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/cloak_red_icon.png",
+      "Hash": "600911857844571964506666b449de79",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/cloak_white_icon.png",
+      "Hash": "282bcd0f3994fe4d5fe614bf9139c922",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/cloak_yellow_icon.png",
+      "Hash": "a090a897d51cd751b960f1ea8c33b851",
+      "Size": 22026
+    },
+    {
+      "Path": "resources/items/helmet_bronze_heavy_icon.png",
+      "Hash": "1ad2dd255ca56472718881ed6a240a64",
+      "Size": 22482
+    },
+    {
+      "Path": "resources/items/helmet_bronze_icon.png",
+      "Hash": "cdafabbf3c4c47702d369047deddced0",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/helmet_bronze_light_icon.png",
+      "Hash": "d18fc4035e8a46ffb32ff8bc58b6fa28",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/helmet_iron_heavy_icon.png",
+      "Hash": "3dc4e15c5144490ab5ab46b6b23730cb",
+      "Size": 22482
+    },
+    {
+      "Path": "resources/items/helmet_iron_icon.png",
+      "Hash": "d29f8dd12c99b9d3763fad92ba2e3559",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/helmet_iron_light_icon.png",
+      "Hash": "50b55b27547032192f614789c4f51808",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/helmet_leatherhardened_light_icon.png",
+      "Hash": "a1d368ace70def7ef19fa68f903d18ca",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/helmet_leatherhardened_medium_icon.png",
+      "Hash": "71c7f1ffbba06b56749d2c4268f4134c",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/helmet_leather_light_icon.png",
+      "Hash": "be025943fad3815c915955c3db305e11",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/helmet_leather_medium_icon.png",
+      "Hash": "31fa539f2a7bc372596f752b482d35bc",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/helmet_steel_heavy_icon.png",
+      "Hash": "86c8d6f1ae7f16948735ef2bcc4310bf",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/helmet_steel_icon.png",
+      "Hash": "6b671c056ef857335488547413be2b69",
+      "Size": 22040
+    },
+    {
+      "Path": "resources/items/helmet_steel_light_icon.png",
+      "Hash": "adb3a8af988cec25896b1b7c595d3b9c",
+      "Size": 22040
+    },
+    {
       "Path": "resources/items/icon_01.png",
       "Hash": "464f93ce6380622f5777b9982fe8e383",
       "Size": 1355
