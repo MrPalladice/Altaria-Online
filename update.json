@@ -2,23 +2,23 @@
   "Files": [
     {
       "Path": "Intersect Client.exe",
-      "Hash": "ecc456ede6a2bc93fca45106654f3087",
-      "Size": 12836864
+      "Hash": "77e00f3cd74a973a43b7fd803edb0520",
+      "Size": 12840960
     },
     {
       "Path": "Intersect Client.pdb",
-      "Hash": "e1104b26de7592362793ce633c989f0c",
+      "Hash": "d9a67614a29622d4ae47b281a8541085",
       "Size": 892416
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "e2a5ca2e216f4d943b4d49f69fd552ff",
-      "Size": 11357696,
+      "Hash": "f115b4ad75fc190e86970088cac51060",
+      "Size": 11363328,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "66764ccb56c56d8a2f4cd7eb963bbfa9",
+      "Hash": "be3109b516869722b08c751170625b65",
       "Size": 1592832,
       "ClientIgnore": true
     },
@@ -29,8 +29,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Hash": "2347438ba51d2316bfb8f947b5d410e2",
-      "Size": 442
+      "Hash": "427c10c8259e8a1a3156d4b29aabd8b5",
+      "Size": 386
     },
     {
       "Path": "resources/credits.json",
