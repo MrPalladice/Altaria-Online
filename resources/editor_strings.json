@@ -718,6 +718,7 @@
     "male": "Male",
     "mapis": "Map Is...",
     "negated": "Negated",
+    "haselse": "Has Else",
     "numericvariable": "Numeric Variable:",
     "okay": "Ok",
     "playervariable": "Player Variable",
@@ -963,10 +964,6 @@
       "moveright": "Move Right",
       "movetowardplayer": "Move Toward Player",
       "moveup": "Move Up",
-      "moveupleft": "Move Up Left",
-      "moveupright": "Move Up Right",
-      "movedownleft": "Move Down Left",
-      "movedownright": "Move Down Right",
       "setanimation": "Set Animation...",
       "setattribute": "Set Attribute",
       "setgraphic": "Set Graphic...",
@@ -994,7 +991,11 @@
       "walkinganimoff": "Walking Animation: Off",
       "walkinganimon": "Walking Animation: On",
       "walkthroughoff": "Walkthrough: Off",
-      "walkthroughon": "Walkthrough: On"
+      "walkthroughon": "Walkthrough: On",
+      "moveupleft": "Move Up Left",
+      "moveupright": "Move Up Right",
+      "movedownleft": "Move Down Left",
+      "movedownright": "Move Down Right"
     },
     "ignoreblocked": "Ignore if Blocked",
     "okay": "Ok",
@@ -1282,6 +1283,7 @@
     "spellpanel": "Spell",
     "quickcast": "Quick Cast Spell?",
     "destroyspell": "Destroy On Use?",
+    "singleuseevent": "Destroy On Use?",
     "stackable": "Stackable?",
     "title": "Item Editor",
     "tooltype": "Tool Type:",
@@ -1301,8 +1303,7 @@
     "undotitle": "Undo Changes",
     "vital": "Vital:",
     "vitalbonuses": "Vital Bonuses",
-    "weaponproperties": "Weapon Properties",
-    "craftevent": "Craft Event"
+    "weaponproperties": "Weapon Properties"
   },
   "LightEditor": {
     "color": "Color:",
@@ -1376,6 +1377,7 @@
     "reportbug": "Report Bug",
     "resourceeditor": "Resource Editor",
     "resources": "Resources",
+    "events": "Events",
     "revision": "Revision: {00}",
     "run": "Run Client",
     "savemap": "Save Map",

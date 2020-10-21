@@ -118,7 +118,8 @@
     "enterchat2": "Press {00} or {01} to chat.",
     "send": "Send",
     "title": "Chat",
-    "toofast": "You are chatting too fast!"
+    "toofast": "You are chatting too fast!",
+    "unabletocopy": "It appears you are not able to copy/paste on this platform. Please make sure you have either the 'xclip' or 'wl-clipboard' packages installed if you are running Linux."
   },
   "Colors": {
     "presets": {

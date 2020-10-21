@@ -2,30 +2,30 @@
   "Files": [
     {
       "Path": "Intersect Client.exe",
-      "Hash": "77e00f3cd74a973a43b7fd803edb0520",
-      "Size": 12840960
+      "Hash": "c28aac0090bd9ce76649d1521b86ccf2",
+      "Size": 14494208
     },
     {
       "Path": "Intersect Client.pdb",
-      "Hash": "d9a67614a29622d4ae47b281a8541085",
-      "Size": 892416
+      "Hash": "15920b2233b97a86409d1317efc89071",
+      "Size": 900608
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "f115b4ad75fc190e86970088cac51060",
-      "Size": 11363328,
+      "Hash": "81b536bedbcf57d243b53b29a01c9d51",
+      "Size": 11440640,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "be3109b516869722b08c751170625b65",
-      "Size": 1592832,
+      "Hash": "c922d82230d8564ec2fccfe8600908f5",
+      "Size": 1603072,
       "ClientIgnore": true
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "50b835613793023e37142cfedf4f4820",
-      "Size": 23450
+      "Hash": "f98de06d805c81d6eefca330ba8b3b7c",
+      "Size": 23642
     },
     {
       "Path": "resources/config.json",
@@ -39,8 +39,8 @@
     },
     {
       "Path": "resources/editor_strings.json",
-      "Hash": "4c1d660d7ec2b6c04ad84d5481ff1e63",
-      "Size": 69555
+      "Hash": "16dba1686becb769c29d6e2910c983e4",
+      "Size": 69616
     },
     {
       "Path": "resources/animations/1 (1).png",
@@ -8419,7 +8419,7 @@
     },
     {
       "Path": "resources/shaders/radialgradient_editor.xnb",
-      "Hash": "caf7dd0348e2a47c5b3e0380210a4ce3",
+      "Hash": "7fd16ce3d5667628713235126633ae6f",
       "Size": 1176
     },
     {
@@ -10139,8 +10139,8 @@
     },
     {
       "Path": "resources/updater/background.png",
-      "Hash": "ee60e73e6a40b84859a193ba5165c720",
-      "Size": 356210
+      "Hash": "c2d0f8f6591f091717127a6c044929f8",
+      "Size": 227300
     },
     {
       "Path": "resources/updater/font.xnb",
