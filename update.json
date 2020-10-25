@@ -6068,11 +6068,6 @@
       "Size": 44795
     },
     {
-      "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "38d59fc9438c172a21fd42ebfc4e113d",
-      "Size": 24139
-    },
-    {
       "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
       "Hash": "2121d8e761e0d40eeb0ce6b844b06d99",
       "Size": 2246
