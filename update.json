@@ -5149,8 +5149,8 @@
     },
     {
       "Path": "resources/gui/background.png",
-      "Hash": "08726c423ca609aad83108f043ed9719",
-      "Size": 731471
+      "Hash": "c8dd68f02056202a2ec11db580958576",
+      "Size": 726032
     },
     {
       "Path": "resources/gui/bag.png",
@@ -6174,8 +6174,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
-      "Hash": "30762909e29b50f5241f8e714313385a",
-      "Size": 9182
+      "Hash": "cc2b4458b2854ba5dd68155fa58892a0",
+      "Size": 9184
     },
     {
       "Path": "resources/gui/layouts/menu/OptionsWindow.json",
