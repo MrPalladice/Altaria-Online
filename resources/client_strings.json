@@ -335,12 +335,12 @@
     },
     "twohand": "2H",
     "rarity": {
-      "0": "None",
-      "1": "Common",
-      "2": "Uncommon",
-      "3": "Rare",
-      "4": "Epic",
-      "5": "Legendary"
+      "0": "Zwykle",
+      "1": "pospolite",
+      "2": "rzadki",
+      "3": "Szlachetny",
+      "4": "Epicki",
+      "5": "Legendarny"
     },
     "vitals": {
       "0": "HP: {00}",
