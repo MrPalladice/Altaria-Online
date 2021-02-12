@@ -6114,13 +6114,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "cab0f4140f1ab71a13db38f9c61fbe31",
+      "Hash": "c723922ee339036086a88df44ef0ffa8",
       "Size": 24139
     },
     {
       "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
-      "Hash": "2121d8e761e0d40eeb0ce6b844b06d99",
-      "Size": 2246
+      "Hash": "cc9ddec2c2a09e2fcd69cf649c7437d9",
+      "Size": 2325
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
@@ -6164,13 +6164,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "5ccf462468cfdd5d31d75e3ccf275309",
+      "Hash": "202f7a04f4339e5d3ac82c0f09d4b8d8",
       "Size": 24309
     },
     {
       "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
-      "Hash": "2121d8e761e0d40eeb0ce6b844b06d99",
-      "Size": 2246
+      "Hash": "cc9ddec2c2a09e2fcd69cf649c7437d9",
+      "Size": 2325
     },
     {
       "Path": "resources/gui/layouts/game/TheirTradeItem.json",
